@@ -20,7 +20,7 @@ export default {
   name: "LoginForm",
   data() {
     return {
-    email: ""
+    email: "",
       password: ""
     };
   },
